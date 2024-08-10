@@ -1,0 +1,10 @@
+.searchbox{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.alert{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
