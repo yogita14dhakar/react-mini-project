@@ -3,10 +3,6 @@
     margin-bottom: 3rem;
 }
 
-#city{
-    background-color: white;
-}
-
 .alert{
     display: flex;
     justify-content: center;
